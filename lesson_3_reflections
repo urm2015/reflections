@@ -7,3 +7,7 @@ Why might you want to always pull changes manually rather than having Git automa
 	All changes you make in github amy not be the final version that you want to keep for your project
 	If other people make changes to your repository in github it may be changes you do not want to incorporate
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	forks-copy one repository to another on GitHub
+	clones-copies a repository into your local
+	branches-add a new branch to a repository
